@@ -26,6 +26,24 @@ This project demonstrates different ways of visualizing numerical data using **M
 
 ---
 
+<img src="images/pillow.gif"  width="600"/>
+<table>
+  <tr>
+    <td><img src="images/plot1.png" width="600"/></td>
+    <td><img src="images/plot3.png" width="600"/></td> 
+    <td><img src="images/plot4.png" width="600"/></td>
+    <td><img src="images/plot5.png" width="600"/></td>
+  </tr>
+  <tr>
+    <td><img src="images/plot6.png" width="600"/></td>
+    <td><img src="images/plot7.png" width="600"/></td>
+    <td><img src="images/plot8.png" width="600"/></td>
+    <td><img src="images/plot9.png" width="600"/></td>
+  </tr>
+</table>
+
+---
+
 ## Tools Used
 
 | Library      | Purpose                                 |
