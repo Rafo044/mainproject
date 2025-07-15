@@ -62,7 +62,11 @@ These charts help to see which categories are working well and which have proble
 - **Profit by category (pie chart)**
 - **Profit vs leftover comparison (grouped bar chart)**
 
-
+![Sales by category](/images/sales_by_category.png)
+![Sales by category](/images/sales_by_category2.png)
+![Sales by category](/images/sales_by_category3.png)
+![Comparison of sales and losses by category](/images/comparisonprofitdamage.png)
+![Sales by month](/images/sales_by_month.png)
 
 
 ---
@@ -88,15 +92,18 @@ These charts help to see which categories are working well and which have proble
 
 
  ## Files in This Project
+```markdown
  market profit and damage analysis/
 │
-├── supermarket.xlsx         # raw data
-├── analysis.py              # Python code
+├── profit_analysis.ipynb              # Python code
 ├── README.md                # this file
 └── images/                  # saved plots (optional)
     ├── sales_line_chart.png
     ├── profit_pie_chart.png
     └── damage_comparison_bar.png
+ └── data/                   # raw data
+    ├── supermarket.xlsx
+```
 
 
 This project was first written in Azerbaijani. I translated and explained it in English to share on GitHub. The dataset is made-up (not real) and only used for practice and learning.
