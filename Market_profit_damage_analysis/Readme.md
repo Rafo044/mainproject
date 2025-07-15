@@ -62,14 +62,17 @@ These charts help to see which categories are working well and which have proble
 - **Profit by category (pie chart)**
 - **Profit vs leftover comparison (grouped bar chart)**
 
-<img src="images/sales_by_category.png" alt="sales_by_category" width="300"/>
-
-![Sales by category](images/sales_by_category.png)
-![Sales by category](images/sales_by_category2.png)
-![Sales by category](images/sales_by_category3.png)
-![Comparison of sales and losses by category](images/comparisonprofitdamage.png)
-![Sales by month](images/sales_by_month.png)
-
+<img src="images/sales_by_category2.png" alt="sales_by_category" width="600"/>
+<table>
+  <tr>
+    <td><img src="images/sales_by_category.png" width="600"/></td>
+    <td><img src="images/sales_by_month.png" width="600"/></td>   
+  </tr>
+  <tr>
+    <td><img src="images/sales_by_category3.png" width="600"/></td>
+    <td><img src="images/comparisonprofitdamage.png" width="600"/></td>
+  </tr>
+</table>
 
 ---
 
