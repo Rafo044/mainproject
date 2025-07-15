@@ -84,8 +84,8 @@ This makes it easier to:
 - ignore short-term noise 
 - see the general health of the economy over decades 
 
-![Moving avarage](images/movingaverage1.png)
-![Moving avarage](images/movingaverag2.png)
+![Moving avarage](images/movingavarage1.png)
+![Moving avarage](images/movingavarag2.png)
 
 ---
 
@@ -94,13 +94,14 @@ This makes it easier to:
 ## Project Structure
 
 ```
-gdp_moving_average/
+moving_average/
 │
-├── gdp_moving_average.ipynb
+├── moving_average.ipynb
 ├── GDPUS.csv
 ├── README.md
 └── images/
-    └── moving_average_gdp.png
+    └── movingaverage1.png
+    └── movingaverage2.png
 ```
 
 
