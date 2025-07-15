@@ -39,7 +39,7 @@ Is there a visible difference between male and female customers?
 
 Here’s the output:
 
-![Numeric](images/relyplot.png)
+![Numeric](images/relplot.png)
 ![Categoric](images/catplot.png)
 
 This kind of chart is helpful to see group-based differences without needing to compute statistics manually.
@@ -56,11 +56,11 @@ These kinds of visualizations are especially useful at the start of any data pro
 ```
 project/
 │
-├── comparing_variables.ipynb
+├── comparing.ipynb
 ├── README.md
 └── images/
-    ├── horsepower_vs_mpg.png
-    └── day_vs_totalbill.png
+    ├── catplot.png
+    └── relplot.png
 ```
 
 Make sure to place your generated images inside the `images/` folder to match the relative paths used in this README.
