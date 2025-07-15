@@ -63,20 +63,6 @@ project/
     └── relplot.png
 ```
 
-Make sure to place your generated images inside the `images/` folder to match the relative paths used in this README.
-
-## How to Run
-
-1. Install dependencies:
-```bash
-pip install seaborn matplotlib
-```
-
-2. Run the `comparing_variables.ipynb` notebook.
-3. The images will be saved manually or using `plt.savefig()` if added.
-4. Update this README if you rename image files or change paths.
-
----
 
 This is a simple but very practical way to visually compare variables — useful for both EDA (exploratory data analysis) and reporting.
 
