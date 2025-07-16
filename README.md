@@ -38,14 +38,19 @@
 --------
 <table>
   <tr>
+    <td><img src="MissingDataVisualization/images/seaborn_heatmap.png" width="600"/></td>
+  </tr>
+  <tr>
+    <td><img src="Pythonda numerik və kateqorik dəyişənlərin bir qrafikdə müqayisəsi/images/relplot.png" width="600"/></td>
+  </tr>
+  
+    <tr>
     <td><img src="Market_profit_damage_analysis/images/sales_by_month.png" width="600"/></td>
     <td><img src="MissingDataVisualization/images/missingno_matrix.png" width="600"/></td>
-    <td><img src="MissingDataVisualization/images/seaborn_heatmap.png" width="600"/></td>
   </tr>
   <tr>
     <td><img src="matplotlibplotting/images/plot4.png" width="600"/></td>
     <td><img src="matplotlibplotting/images/plot5.png" width="600"/></td>
-    <td><img src="Pythonda numerik və kateqorik dəyişənlərin bir qrafikdə müqayisəsi/images/relplot.png" width="600"/></td>
   </tr>
 </table>
 ---------
