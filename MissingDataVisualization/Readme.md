@@ -5,10 +5,9 @@ MissingDataVisualization/
 ├── missingdata.ipynb
 ├── README.md
 └── images/
-├── line_plot_nan.png
-├── seaborn_heatmap.png
-├── plotly_heatmap.png
-└── missingno_matrix.png
+    ├── line_plot_nan.png
+    ├── seaborn_heatmap.png
+    └── missingno_matrix.png
 ```
 #  Missing Data Visualization
 
@@ -82,11 +81,9 @@ It shows exactly where values are missing — especially useful for bigger datas
 
 ---
 
-
-=
-```markdown
-![Line chart](images/line_nan.png)
-```
+![Line chart](images/line_plot_nan.png)
+![Seaborn chart](images/seaborn_heatmap.png)
+![Missingno chart](images/missingno_matrix.png)
 ---
 
 ##  Notes
