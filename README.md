@@ -19,20 +19,34 @@
     <td><img src="decomposition_additive_model/images/turnover2.png" width="600"/></td>
     <td><img src=" Market_profit_damage_analysis/sales_line_chart.png" width="600"/></td> 
     <td><img src=" Market_profit_damage_analysis/damage_comparison_bar.png" width="600"/></td>
-    <td><img src=" Market_profit_damage_analysis/profit_pie_chart.png" width="600"/></td>
-    <td><img src="MissingDataVisualization/images/missingno_matrix.png" width="600"/></td>
-    <td><img src="MissingDataVisualization/images/seaborn_heatmap.png" width="600"/></td>
   </tr>
   <tr>
     <td><img src="matplotlibplotting/images/plot6.png" width="600"/></td>
     <td><img src="matplotlibplotting/images/plot7.png" width="600"/></td>
     <td><img src="matplotlibplotting/images/plot8.png" width="600"/></td>
     <td><img src="matplotlibplotting/images/plot9.png" width="600"/></td>
-    <td><img src="matplotlibplotting/images/plot4.png" width="600"/></td>
-    <td><img src="matplotlibplotting/images/plot5.png" width="600"/></td>
-     <td><img src="Pythonda numerik və kateqorik dəyişənlərin bir qrafikdə müqayisəsi/images/movingaverage1.png" width="600"/></td>
   </tr>
 </table>
+
+
+<table>
+  <tr>
+    <td><img src=" Market_profit_damage_analysis/profit_pie_chart.png" width="600"/></td>
+    <td><img src="MissingDataVisualization/images/missingno_matrix.png" width="600"/></td>
+    <td><img src="MissingDataVisualization/images/seaborn_heatmap.png" width="600"/></td>
+  </tr>
+  <tr>
+    <td><img src="matplotlibplotting/images/plot4.png" width="600"/></td>
+    <td><img src="matplotlibplotting/images/plot5.png" width="600"/></td>
+    <td><img src="Pythonda numerik və kateqorik dəyişənlərin bir qrafikdə müqayisəsi/images/movingaverage1.png" width="600"/></td>
+  </tr>
+</table>
+
+
+
+
+
+
 ------------
 
 # Time Series and Data Visualization Projects
