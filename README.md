@@ -26,8 +26,8 @@
 ---------
 <table>
   <tr>
-    <td><img src=" Market_profit_damage_analysis/images/comparisonprofitdamage.png" width="600"/></td> 
-    <td><img src=" Market_profit_damage_analysis/images/sales_by_category2.png" width="600"/></td>
+    <td><img src="Market_profit_damage_analysis/images/comparisonprofitdamage.png" width="600"/></td> 
+    <td><img src="Market_profit_damage_analysis/images/sales_by_category2.png" width="600"/></td>
   </tr>
   <tr>
     <td><img src="matplotlibplotting/images/plot8.png" width="600"/></td>
@@ -38,7 +38,7 @@
 --------
 <table>
   <tr>
-    <td><img src=" Market_profit_damage_analysis/images/sales_by_month.png" width="600"/></td>
+    <td><img src="Market_profit_damage_analysis/images/sales_by_month.png" width="600"/></td>
     <td><img src="MissingDataVisualization/images/missingno_matrix.png" width="600"/></td>
     <td><img src="MissingDataVisualization/images/seaborn_heatmap.png" width="600"/></td>
   </tr>
